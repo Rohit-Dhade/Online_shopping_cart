@@ -2,7 +2,6 @@
 #include<iomanip>
 #include<list>
 #include<vector>
-#include "my_module.cpp"
 using namespace std;
 
 class product
